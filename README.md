@@ -1,2 +1,5 @@
 # hello_world
-Tutorial repository
+
+Hello world, hello humans!
+
+I am not a robot because I love tacos.
